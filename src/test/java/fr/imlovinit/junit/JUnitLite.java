@@ -11,7 +11,7 @@ import org.junit.Ignore;
 import org.junit.Test;
 
 /** Main class of this project. See the blog post for more information. */
-public class TestJUnitLine {
+public class JUnitLite {
 
     public static void main(String[] args) throws Exception {
 
